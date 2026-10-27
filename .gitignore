@@ -1,0 +1,10 @@
+# Executables
+*.exe
+
+# Hidden dot directories and files
+.*
+!.gitignore
+
+# Python cache & Jupyter checkpoints
+__pycache__/
+.ipynb_checkpoints/
