@@ -1,6 +1,6 @@
 # Executables
 *.exe
-
+*.pdf
 # Hidden dot directories and files
 .*
 !.gitignore
